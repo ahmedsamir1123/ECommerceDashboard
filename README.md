@@ -14,8 +14,6 @@ A modern **E-Commerce Admin Dashboard** built with **React Vite**, **Tailwind CS
 - **Styling:** Tailwind CSS
 - **Backend & Database:** Firebase (Firestore, Authentication, Storage)
 
-##  Screenshots
-*(Add some images or GIFs of your dashboard UI here)*
 
 ##  Features
 -  **Product Management:** Add, update, and delete products
@@ -36,10 +34,6 @@ A modern **E-Commerce Admin Dashboard** built with **React Vite**, **Tailwind CS
  ├── index.css         # Global styles
 ```
 
-##  Contributing
-Feel free to contribute! Fork the repository and submit a pull request. 
-
-
-Demo
+## Demo
 https://e-commerce-dashboard-seven-teal.vercel.app/login
 
