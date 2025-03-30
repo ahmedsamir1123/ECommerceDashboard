@@ -64,7 +64,7 @@ export default function Users() {
         />
       </div>
 
-      <div className="bg-white p-6 shadow-lg rounded-lg mb-8">
+      <div className="bg-white p-6 shadow-lg rounded-lg mb-8 overflow-x-auto">
         <h3 className="text-2xl font-semibold mb-4">Users</h3>
         <table className="min-w-full table-auto border-collapse">
           <thead>
